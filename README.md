@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmc-at-hfi
-- 👀 I’m interested in aliens. 
+- 👽 I’m interested in aliens. 
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on Alfred
 
